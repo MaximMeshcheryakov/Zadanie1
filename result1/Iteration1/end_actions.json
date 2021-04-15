@@ -1,0 +1,14 @@
+[
+    {
+        "actionName": "vuser_end",
+        "steps": [
+            {
+                "stepId": "STEP43",
+                "stepName": "Url: SignOff Button",
+                "infFile": "t43.inf",
+                "time": 1618479427572
+            }
+        ],
+        "transactions": []
+    }
+]
